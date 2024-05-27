@@ -11,4 +11,4 @@ Below is the picture that was simulated entirely using JavaScript:
 
 ## Live Demo
 
-Experience the live demo of the simulation [here](https://your-live-demo-link.com](https://sara3saeed.github.io/DOM-HW-/)).
+Experience the live demo of the simulation [here](https://sara3saeed.github.io/DOM-HW-/)
